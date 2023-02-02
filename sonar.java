@@ -20,6 +20,9 @@ public class sonar {
                 case "D":
                     System.out.println("D등급 입니다");
                     break;
+                case "E":
+                    System.out.println("D등급 입니다");
+                    break;
             }
         }
     }
